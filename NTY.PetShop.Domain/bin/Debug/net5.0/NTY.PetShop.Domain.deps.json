@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "NTY.PetShop.Domain/1.0.0": {
+        "dependencies": {
+          "NTY.PetShop.Core": "1.0.0"
+        },
+        "runtime": {
+          "NTY.PetShop.Domain.dll": {}
+        }
+      },
+      "NTY.PetShop.Core/1.0.0": {
+        "runtime": {
+          "NTY.PetShop.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NTY.PetShop.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NTY.PetShop.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

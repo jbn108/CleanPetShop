@@ -1,0 +1,12 @@
+/Users/jonasbuus/RiderProjects/PetShop/NTY.PetShop.Core/bin/Debug/net5.0/NTY.PetShop.Core.deps.json
+/Users/jonasbuus/RiderProjects/PetShop/NTY.PetShop.Core/bin/Debug/net5.0/NTY.PetShop.Core.dll
+/Users/jonasbuus/RiderProjects/PetShop/NTY.PetShop.Core/bin/Debug/net5.0/ref/NTY.PetShop.Core.dll
+/Users/jonasbuus/RiderProjects/PetShop/NTY.PetShop.Core/bin/Debug/net5.0/NTY.PetShop.Core.pdb
+/Users/jonasbuus/RiderProjects/PetShop/NTY.PetShop.Core/obj/Debug/net5.0/NTY.PetShop.Core.csproj.AssemblyReference.cache
+/Users/jonasbuus/RiderProjects/PetShop/NTY.PetShop.Core/obj/Debug/net5.0/NTY.PetShop.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jonasbuus/RiderProjects/PetShop/NTY.PetShop.Core/obj/Debug/net5.0/NTY.PetShop.Core.AssemblyInfoInputs.cache
+/Users/jonasbuus/RiderProjects/PetShop/NTY.PetShop.Core/obj/Debug/net5.0/NTY.PetShop.Core.AssemblyInfo.cs
+/Users/jonasbuus/RiderProjects/PetShop/NTY.PetShop.Core/obj/Debug/net5.0/NTY.PetShop.Core.csproj.CoreCompileInputs.cache
+/Users/jonasbuus/RiderProjects/PetShop/NTY.PetShop.Core/obj/Debug/net5.0/NTY.PetShop.Core.dll
+/Users/jonasbuus/RiderProjects/PetShop/NTY.PetShop.Core/obj/Debug/net5.0/ref/NTY.PetShop.Core.dll
+/Users/jonasbuus/RiderProjects/PetShop/NTY.PetShop.Core/obj/Debug/net5.0/NTY.PetShop.Core.pdb

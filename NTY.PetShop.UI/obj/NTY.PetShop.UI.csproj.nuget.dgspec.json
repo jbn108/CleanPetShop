@@ -1,0 +1,237 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/jonasbuus/RiderProjects/PetShop/NTY.PetShop.UI/NTY.PetShop.UI.csproj": {}
+  },
+  "projects": {
+    "/Users/jonasbuus/RiderProjects/PetShop/NTY.PetShop.Core/NTY.PetShop.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/jonasbuus/RiderProjects/PetShop/NTY.PetShop.Core/NTY.PetShop.Core.csproj",
+        "projectName": "NTY.PetShop.Core",
+        "projectPath": "/Users/jonasbuus/RiderProjects/PetShop/NTY.PetShop.Core/NTY.PetShop.Core.csproj",
+        "packagesPath": "/Users/jonasbuus/.nuget/packages/",
+        "outputPath": "/Users/jonasbuus/RiderProjects/PetShop/NTY.PetShop.Core/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/jonasbuus/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.400/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/jonasbuus/RiderProjects/PetShop/NTY.PetShop.Domain/NTY.PetShop.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/jonasbuus/RiderProjects/PetShop/NTY.PetShop.Domain/NTY.PetShop.Domain.csproj",
+        "projectName": "NTY.PetShop.Domain",
+        "projectPath": "/Users/jonasbuus/RiderProjects/PetShop/NTY.PetShop.Domain/NTY.PetShop.Domain.csproj",
+        "packagesPath": "/Users/jonasbuus/.nuget/packages/",
+        "outputPath": "/Users/jonasbuus/RiderProjects/PetShop/NTY.PetShop.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/jonasbuus/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/Users/jonasbuus/RiderProjects/PetShop/NTY.PetShop.Core/NTY.PetShop.Core.csproj": {
+                "projectPath": "/Users/jonasbuus/RiderProjects/PetShop/NTY.PetShop.Core/NTY.PetShop.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.400/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/jonasbuus/RiderProjects/PetShop/NTY.PetShop.SQL/NTY.PetShop.SQL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/jonasbuus/RiderProjects/PetShop/NTY.PetShop.SQL/NTY.PetShop.SQL.csproj",
+        "projectName": "NTY.PetShop.SQL",
+        "projectPath": "/Users/jonasbuus/RiderProjects/PetShop/NTY.PetShop.SQL/NTY.PetShop.SQL.csproj",
+        "packagesPath": "/Users/jonasbuus/.nuget/packages/",
+        "outputPath": "/Users/jonasbuus/RiderProjects/PetShop/NTY.PetShop.SQL/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/jonasbuus/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/Users/jonasbuus/RiderProjects/PetShop/NTY.PetShop.Core/NTY.PetShop.Core.csproj": {
+                "projectPath": "/Users/jonasbuus/RiderProjects/PetShop/NTY.PetShop.Core/NTY.PetShop.Core.csproj"
+              },
+              "/Users/jonasbuus/RiderProjects/PetShop/NTY.PetShop.Domain/NTY.PetShop.Domain.csproj": {
+                "projectPath": "/Users/jonasbuus/RiderProjects/PetShop/NTY.PetShop.Domain/NTY.PetShop.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.400/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/jonasbuus/RiderProjects/PetShop/NTY.PetShop.UI/NTY.PetShop.UI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/jonasbuus/RiderProjects/PetShop/NTY.PetShop.UI/NTY.PetShop.UI.csproj",
+        "projectName": "NTY.PetShop.UI",
+        "projectPath": "/Users/jonasbuus/RiderProjects/PetShop/NTY.PetShop.UI/NTY.PetShop.UI.csproj",
+        "packagesPath": "/Users/jonasbuus/.nuget/packages/",
+        "outputPath": "/Users/jonasbuus/RiderProjects/PetShop/NTY.PetShop.UI/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/jonasbuus/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/Users/jonasbuus/RiderProjects/PetShop/NTY.PetShop.Core/NTY.PetShop.Core.csproj": {
+                "projectPath": "/Users/jonasbuus/RiderProjects/PetShop/NTY.PetShop.Core/NTY.PetShop.Core.csproj"
+              },
+              "/Users/jonasbuus/RiderProjects/PetShop/NTY.PetShop.Domain/NTY.PetShop.Domain.csproj": {
+                "projectPath": "/Users/jonasbuus/RiderProjects/PetShop/NTY.PetShop.Domain/NTY.PetShop.Domain.csproj"
+              },
+              "/Users/jonasbuus/RiderProjects/PetShop/NTY.PetShop.SQL/NTY.PetShop.SQL.csproj": {
+                "projectPath": "/Users/jonasbuus/RiderProjects/PetShop/NTY.PetShop.SQL/NTY.PetShop.SQL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.400/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
