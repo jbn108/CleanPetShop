@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "mK+oVTrmjU0niH5jhDB4hrz7AwQS3Kn23N3A/c4WkRivAiLiOocHB75HligK2EqrPPwrAPZ3qK/5TNd2YgEfjA==",
+  "dgSpecHash": "pIHbQjBfpIzmvBh+3JCup/A3aFrDGgfTT7akeKVcjRp+ZCkOmgo8TLlWlDY960LIl9qqmxVXwKUVKss7CmwBOQ==",
   "success": true,
-  "projectFilePath": "/Users/jonasbuus/RiderProjects/PetShop/NTY.PetShop.UI/NTY.PetShop.UI.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/Users/jonasbuus/RiderProjects/CleanPetShop/NTY.PetShop.UI/NTY.PetShop.UI.csproj",
+  "expectedPackageFiles": [
+    "/Users/jonasbuus/.nuget/packages/microsoft.extensions.dependencyinjection/6.0.0-preview.7.21377.19/microsoft.extensions.dependencyinjection.6.0.0-preview.7.21377.19.nupkg.sha512",
+    "/Users/jonasbuus/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/6.0.0-preview.7.21377.19/microsoft.extensions.dependencyinjection.abstractions.6.0.0-preview.7.21377.19.nupkg.sha512",
+    "/Users/jonasbuus/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0-preview.7.21377.19/system.runtime.compilerservices.unsafe.6.0.0-preview.7.21377.19.nupkg.sha512"
+  ],
   "logs": []
 }

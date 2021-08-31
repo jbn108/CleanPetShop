@@ -51,11 +51,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/jonasbuus/RiderProjects/PetShop/NTY.PetShop.SQL/NTY.PetShop.SQL.csproj",
+      "projectUniqueName": "/Users/jonasbuus/RiderProjects/CleanPetShop/NTY.PetShop.SQL/NTY.PetShop.SQL.csproj",
       "projectName": "NTY.PetShop.SQL",
-      "projectPath": "/Users/jonasbuus/RiderProjects/PetShop/NTY.PetShop.SQL/NTY.PetShop.SQL.csproj",
+      "projectPath": "/Users/jonasbuus/RiderProjects/CleanPetShop/NTY.PetShop.SQL/NTY.PetShop.SQL.csproj",
       "packagesPath": "/Users/jonasbuus/.nuget/packages/",
-      "outputPath": "/Users/jonasbuus/RiderProjects/PetShop/NTY.PetShop.SQL/obj/",
+      "outputPath": "/Users/jonasbuus/RiderProjects/CleanPetShop/NTY.PetShop.SQL/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/jonasbuus/.nuget/NuGet/NuGet.Config"
@@ -70,11 +70,11 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "/Users/jonasbuus/RiderProjects/PetShop/NTY.PetShop.Core/NTY.PetShop.Core.csproj": {
-              "projectPath": "/Users/jonasbuus/RiderProjects/PetShop/NTY.PetShop.Core/NTY.PetShop.Core.csproj"
+            "/Users/jonasbuus/RiderProjects/CleanPetShop/NTY.PetShop.Core/NTY.PetShop.Core.csproj": {
+              "projectPath": "/Users/jonasbuus/RiderProjects/CleanPetShop/NTY.PetShop.Core/NTY.PetShop.Core.csproj"
             },
-            "/Users/jonasbuus/RiderProjects/PetShop/NTY.PetShop.Domain/NTY.PetShop.Domain.csproj": {
-              "projectPath": "/Users/jonasbuus/RiderProjects/PetShop/NTY.PetShop.Domain/NTY.PetShop.Domain.csproj"
+            "/Users/jonasbuus/RiderProjects/CleanPetShop/NTY.PetShop.Domain/NTY.PetShop.Domain.csproj": {
+              "projectPath": "/Users/jonasbuus/RiderProjects/CleanPetShop/NTY.PetShop.Domain/NTY.PetShop.Domain.csproj"
             }
           }
         }

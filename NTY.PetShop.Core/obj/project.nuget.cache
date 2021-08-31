@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sCZV1aoh+7fxK1QvJ/oOfxHQz8PkYPerYISW8qINK//gjnF1P5QmHJJx13voXUZ5lUD6sxoTy5IaiQNGNzYhVA==",
+  "dgSpecHash": "M/Gap4q6lY+vDaEOHmqz9ne8YudVLBPdxvDJ11YrNvhCY93iTVgw/xPsJspuCCNarPLEVe+ZjhCLTeuJLYbaiQ==",
   "success": true,
-  "projectFilePath": "/Users/jonasbuus/RiderProjects/PetShop/NTY.PetShop.Core/NTY.PetShop.Core.csproj",
+  "projectFilePath": "/Users/jonasbuus/RiderProjects/CleanPetShop/NTY.PetShop.Core/NTY.PetShop.Core.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

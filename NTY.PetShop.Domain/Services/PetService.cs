@@ -1,4 +1,5 @@
 using System.Collections.Generic;
+using System.Security.Cryptography;
 using NTY.PetShop.Core.IServices;
 using NTY.PetShop.Core.Models;
 using NTY.PetShop.Domain.IRepositories;
@@ -8,6 +9,7 @@ namespace NTY.PetShop.Domain.Services
     public class PetService : IPetService
     {
         private IPetRepository _petRepository;
+        
         public PetService(IPetRepository petRepository)
         {
             _petRepository = petRepository;
